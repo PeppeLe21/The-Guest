@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5c1b68953a059347bc03b21b8cf3d12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Prefabs/Props/Sign.prefab
+  uploadId: 387311

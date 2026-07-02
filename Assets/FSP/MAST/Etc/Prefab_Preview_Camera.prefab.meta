@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9035d3e14cfd0948b1d2a5a6229b11c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Etc/Prefab_Preview_Camera.prefab
+  uploadId: 387311

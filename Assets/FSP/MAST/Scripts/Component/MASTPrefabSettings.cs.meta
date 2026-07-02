@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1f6be16025ec88e4c88efb60e6a61e8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Scripts/Component/MASTPrefabSettings.cs
+  uploadId: 387311

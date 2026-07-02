@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1af3901da96c65459fa8c56f9e4d1cd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Etc/Shader_Eraser_SRP.shader
+  uploadId: 387311

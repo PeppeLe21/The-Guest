@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 247ac9b9e0a2dc84b8ad9366bb062363
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Meshes/mesh_Tree Point Down.asset
+  uploadId: 387311

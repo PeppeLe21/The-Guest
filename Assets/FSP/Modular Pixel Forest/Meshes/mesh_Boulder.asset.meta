@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8de204b3de335854493d3b320d4f2414
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Meshes/mesh_Boulder.asset
+  uploadId: 387311

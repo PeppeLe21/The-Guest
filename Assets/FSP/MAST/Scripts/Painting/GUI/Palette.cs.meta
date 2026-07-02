@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0613ccaf54193a5448c960e7f9b3254b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Scripts/Painting/GUI/Palette.cs
+  uploadId: 387311

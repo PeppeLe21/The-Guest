@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 437477f7b85afae4a9711ce90320fb8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Etc/GUISkin.guiskin
+  uploadId: 387311

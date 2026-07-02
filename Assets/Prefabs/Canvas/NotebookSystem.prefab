@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5598986892653408062
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4662423952778098753}
+  - component: {fileID: 4087537078111257638}
+  m_Layer: 0
+  m_Name: NotebookSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4662423952778098753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5598986892653408062}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1333.5659, y: 854.39294, z: 5.7505097}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4087537078111257638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5598986892653408062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 896cad3bcd275a944ad9371fefd91a02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  notebookPanel: {fileID: 0}
+  pageContentHolder: {fileID: 0}
+  notebookPromptUI: {fileID: 0}
+  leftPageContainer: {fileID: 0}
+  rightPageText: {fileID: 0}
+  bookAnimator: {fileID: 0}
+  animationDuration: 0.8
+  closingDelay: 0
+  portraitScaleX: 1.5
+  textScaleX: 1.5
+  buttonPrefab: {fileID: 2139824623916480383, guid: f483adfdc11cd0a4cad147502b7bfe33, type: 3}
+  audioSource: {fileID: 0}
+  clickSound: {fileID: 8300000, guid: 214caf6226391db469fd8c02380116ba, type: 3}
+  entries:
+  - npcID: L. Valli
+    portrait: {fileID: 21300000, guid: 484838a8f6b827d4c85009459e208247, type: 3}
+    currentNote: Nessun dialogo avuto al momento con Massimo Valli
+  - npcID: Marta
+    portrait: {fileID: 21300000, guid: b95c32db89aee36489b5fc3963105c0d, type: 3}
+    currentNote: Nessun dialogo avuto al momento con la Signora Marta
+  - npcID: Bruno
+    portrait: {fileID: 21300000, guid: e908cebbbf3a54f41b05c6bb37e21ced, type: 3}
+    currentNote: Nessun dialogo avuto al momento con Bruno il guercio
+  - npcID: Dr. Busi
+    portrait: {fileID: 21300000, guid: 9d29db6fec9f07548b1c70d06dbe08b0, type: 3}
+    currentNote: Nessun dialogo avuto al momento con il Dottori Busi

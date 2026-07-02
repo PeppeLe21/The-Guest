@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61bd439edf5883c489b054c9109cc5a0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/updates.txt
+  uploadId: 387311

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f04500da1a12e44aa1a1cc7eb9b42d2, type: 3}
+  m_Name: Costume_Chef
+  m_EditorClassIdentifier: 
+  gameObjectName: Chef
+  displayName: Chef
+  icon: {fileID: 0}
+  llmDescription: "Hai aperto la porta, d'avanti a te c'\xE8 un uomo con divisa da
+    cuoco di classe: giacca bianca con qualche macchia e un grembiule. Sembra uscito
+    da una cucina."
+  unlockedByDefault: 1

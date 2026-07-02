@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4974129709551516271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7511171591783253523}
+  - component: {fileID: 3964306944725668644}
+  m_Layer: 0
+  m_Name: WardrobeSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7511171591783253523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4974129709551516271}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1095.8561, y: 586.77344, z: -12.058914}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3964306944725668644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4974129709551516271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0aaf51ebc35bc64c9c0fba62d529723, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wardrobePanel: {fileID: 0}
+  travestimentoPromptUI: {fileID: 0}
+  costumeManager: {fileID: 0}
+  costumeButtons:
+  - costumeID: BadBoy
+    outlineObj: {fileID: 0}
+  - costumeID: Chef
+    outlineObj: {fileID: 0}
+  - costumeID: DoctorFemale
+    outlineObj: {fileID: 0}
+  - costumeID: Worker
+    outlineObj: {fileID: 0}
+  - costumeID: Suit
+    outlineObj: {fileID: 0}
+  resetOutline: {fileID: 0}
+  audioSource: {fileID: 0}
+  selectionSound: {fileID: 8300000, guid: fef5c7c089c2a604fb46e9713fc21366, type: 3}

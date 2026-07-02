@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d15301a1eac5c5b4185a4fc6f837a578
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Demo Scenes/MAST Demo Scene.unity
+  uploadId: 387311

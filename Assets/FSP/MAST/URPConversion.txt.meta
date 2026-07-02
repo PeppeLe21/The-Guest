@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a7ea792a2f476e48acbe784e24da12e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/URPConversion.txt
+  uploadId: 387311

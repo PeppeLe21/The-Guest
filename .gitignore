@@ -1,0 +1,78 @@
+# =============================================================
+#  .gitignore per progetto Unity — "The Guest"
+# =============================================================
+
+# ----- Cartelle generate automaticamente da Unity -----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ----- Impostazioni personali (non condividere) -----
+[Uu]ser[Ss]ettings/
+
+# ----- Plastic SCM (controllo versione precedente) -----
+.plastic/
+
+# ----- File IDE (rigenerati automaticamente da Unity) -----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# ----- File di build e piattaforme -----
+*.apk
+*.aab
+*.app
+*.exe
+*.x86
+*.x86_64
+*.unitypackage
+
+# ----- File temporanei / debug -----
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# ----- Sistema operativo -----
+.DS_Store*
+Thumbs.db
+Desktop.ini
+
+# ----- Asset Store Tools (non necessari su repo) -----
+/Assets/AssetStoreTools*
+
+# ----- Addressables (cache locale) -----
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/StreamingAssets/aa.meta
+/Assets/StreamingAssets/aa/*
+
+# ----- FILE SENSIBILI — CHIAVI API / CONFIGURAZIONE LOCALE -----
+# Aggiungi qui eventuali file con API key o configurazioni private
+Assets/Scripts/Demo/ApiConfig.cs
+api_config.json
+secrets.json
+
+# ----- Documentazione interna (non da pubblicare) -----
+SETUP_NOTES.txt
+todos.txt
+

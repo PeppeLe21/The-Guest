@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc475ef7bb5da374b8aaa34bd67c98b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Scripts/Building/Visualizer.cs
+  uploadId: 387311

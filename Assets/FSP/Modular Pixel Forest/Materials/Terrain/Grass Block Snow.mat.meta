@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3bd69ceb07dbb24ba6c0cfa385c2765
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Materials/Terrain/Grass Block Snow.mat
+  uploadId: 387311

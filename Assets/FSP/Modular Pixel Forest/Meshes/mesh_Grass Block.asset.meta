@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0428c0be2200a647818788a545b0599
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Meshes/mesh_Grass Block.asset
+  uploadId: 387311

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49f3e0054eeed5a4fb0d6bfef6ab5253
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Etc/CoreSettings.asset
+  uploadId: 387311

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb3e288cb7554f14dad862d236264c2d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Prefabs/Props/Boulder.prefab
+  uploadId: 387311

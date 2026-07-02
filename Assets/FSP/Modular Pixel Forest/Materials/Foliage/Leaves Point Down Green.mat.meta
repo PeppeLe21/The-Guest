@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f79177218f59a2c488f0e57d2b1b283a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Materials/Foliage/Leaves Point Down
+    Green.mat
+  uploadId: 387311

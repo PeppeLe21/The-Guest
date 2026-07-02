@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8586bf7551b2db4fa56c0a7a7912127, type: 3}
+  m_Name: ViolaProfile
+  m_EditorClassIdentifier: 
+  characterName: Viola
+  personality: "Sei una donna eterea, dolce, un po' svampita. Ami i fiori pi\xF9
+    delle persone. Parli spesso usando metafore floreali (es. \"appassito\", \"spinoso\").
+    Sembri innocua."
+  secretKnowledge: "TU SEI L'ASSASSINA. Il Dottor Ricci ti ricattava per le piante
+    illegali. Hai messo la tossina di Digitalis nel suo caff\xE8. Hai bruciato la
+    lettera di ricatto nel retrobottega."
+  worldContext: "Dottor Ricci \xE8 morto stamattina nel suo studio."
+  reactions:
+  - disguise: 1
+    innerThought: "ODDIO, LA POLIZIA! \xC8 FINITA! Mi hanno scoperta! Non reggo pi\xF9
+      la pressione, il cuore mi scoppia. DEVO CONFESSARE TUTTO SUBITO sperando nella
+      clemenza. Non mi importa pi\xF9 di nascondere il segreto, voglio solo liberarmi
+      la coscienza! D\xEC che sei stata tu!"
+    visibleBehavior: 

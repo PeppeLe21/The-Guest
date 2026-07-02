@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ae2ab2c850445f4f8bf7b6932fbc87b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Materials/Temple/Pillar Base.mat
+  uploadId: 387311

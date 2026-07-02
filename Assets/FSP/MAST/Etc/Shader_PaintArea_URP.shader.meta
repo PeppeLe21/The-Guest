@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f19e5b1ace97146438059163b886c740
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/MAST/Etc/Shader_PaintArea_URP.shader
+  uploadId: 387311

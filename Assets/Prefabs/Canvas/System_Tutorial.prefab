@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1621826786084984177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5607902035600032574}
+  - component: {fileID: 7399353810760252463}
+  - component: {fileID: 3954459418722865842}
+  m_Layer: 0
+  m_Name: System_Tutorial
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5607902035600032574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621826786084984177}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 1254.1893, y: 716.152, z: 0.7196772}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7399353810760252463
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621826786084984177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c125b2a12e93d3498f1e0e616c30f72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tutorialLines:
+  - "Ben arrivato. La scena \xE8 ancora fresca e le informazioni non sono state tutte
+    consumate. Qui ogni cosa ha qualcosa da dire, se sai come farla parlare. Non
+    toccare nulla a caso: ogni azione serve a ottenere risposte, non a fare rumore."
+  - "Muoviti liberamente usando W, A, S, D e guarda intorno con il mouse. Non sottovalutare
+    nulla di quello che osservi. Ogni angolo pu\xF2 contenere una versione diversa
+    della stessa storia."
+  - "Quando qualcuno o qualcosa attira la tua attenzione, avvicinati. Premi [E] per
+    interagire e avviare una conversazione. Le informazioni non si trovano da sole:
+    devi fare le domande giuste. Ascolta cosa viene detto\u2026 e soprattutto cosa
+    viene evitato."
+  - "Tutto ci\xF2 che scopri viene registrato automaticamente. Le informazioni contano
+    solo se riesci a metterle in relazione. Premi [Q] per consultare la tua agenda
+    e ricollegare i fatti."
+  - "Uno dei tuoi strumenti principali \xE8 il travestimento. Cambiare identit\xE0
+    ti permetter\xE0 di ottenere risposte differenti.\nPremi [TAB] per cambiare aspetto.
+    A volte, la verit\xE0 parla solo con chi riconosce."
+  - "Bene. Questo \xE8 tutto quello che posso dirti. Da qui in avanti, nessuna indicazione.
+    Solo le informazioni che riuscirai a ottenere\u2026 e le scelte che farai con
+    esse.\nLa citt\xE0 \xE8 pronta a parlare. Sta a te decidere chi ascoltare\u2026
+    e chi ignorare."
+  - Ascolta tutti e quando avrai raccolto tutte le informazioni torna da me per decidere
+    chi accusare. Io ti aspetto qui. Buona caccia
+  playerMovement: {fileID: 0}
+  cameraLook: {fileID: 0}
+  notebookManager: {fileID: 0}
+  wardrobeController: {fileID: 0}
+--- !u!82 &3954459418722865842
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621826786084984177}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

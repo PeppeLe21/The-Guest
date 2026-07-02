@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac71bec3567be5a4191fccd4664ee587
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Materials/Props/Sign Blank.mat
+  uploadId: 387311

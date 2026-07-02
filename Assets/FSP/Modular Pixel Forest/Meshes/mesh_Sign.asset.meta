@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 165d64a5ef60e764c9f8794eb2c7f19b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Meshes/mesh_Sign.asset
+  uploadId: 387311

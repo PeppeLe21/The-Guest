@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc38d8df6177a724fb7805f14a145adc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Meshes/mesh_Pillar Center.asset
+  uploadId: 387311

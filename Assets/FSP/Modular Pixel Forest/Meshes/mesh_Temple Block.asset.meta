@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4a992684ac9d35449daa7acb0ebbc75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154939
+  packageName: MAST - Modular Asset Staging Tool
+  packageVersion: 1.5.1
+  assetPath: Assets/FSP/Modular Pixel Forest/Meshes/mesh_Temple Block.asset
+  uploadId: 387311
